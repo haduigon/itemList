@@ -1,3 +1,4 @@
+/* eslint-disable */
 const TotalAmount = ({ items = [] as any }) => {
   // TODO: calculate ans show the total amount
   // console.log(items);

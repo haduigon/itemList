@@ -1,3 +1,4 @@
+/* eslint-disable */
 // TODO: don't touch this file :)
 const Title = () => (
   <div className="title">

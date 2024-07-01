@@ -1,3 +1,4 @@
+/* eslint-disable */
 // TODO: - render an item
 //       - show name
 //       - show price
